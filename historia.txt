@@ -7,3 +7,5 @@ Pero que al final se dio cuenta que era el futuro para sacar su familia adelante
 Mañana nos enfocaremos en su vida laboral
 
 Este es una parte de la historia de un colaborador en git
+
+Esta linea fue ingresada por un contribuidor desde internet por medio de un fork en la rama principal
